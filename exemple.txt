@@ -2,4 +2,8 @@ hello helllo 1 è projet
 ceci gfkbfjh
 
 ceci est le 5e mess.
+<<<<<<< HEAD
  ceci le 6e mess
+=======
+ceci le 6e mess
+>>>>>>> main
