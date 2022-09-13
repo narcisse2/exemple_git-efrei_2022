@@ -2,8 +2,8 @@ hello helllo 1 è projet
 ceci gfkbfjh
 
 ceci est le 5e mess.
-<<<<<<< HEAD
  ceci le 6e mess
-=======
-ceci le 6e mess
->>>>>>> main
+
+ceci 7e mess 
+
+Un texte est une série orale ou écrite de mots perçus comme constituant un ensemble cohérent, porteur de sens et utilisant les structures propres à une langue.
