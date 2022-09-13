@@ -1,0 +1,19 @@
+git status: reflexe principal en cas de doute 
+git add : ajouter 
+git log : history de commit 
+git show : derniere commit 
+git add . : tous ajouter 
+git commit -m "mess" 
+git reset [--hard] [--soft] : commit 
+git commit --amend -m "mess" : changer un commit qui n'est pas encore push 
+git push [-u <alias URL> <branche>] : definier le branch 
+git tag [-a] <version>  [-f] [-m] <mess> <commit>
+git remote [-v] verifier l'URL du dépot distance associé au dépot local 
+git remote add <alias URL> <URL> ( ex: git remote add origin https://github.com/Moi:mon-depot)
+git check out -b : permet de crer une nouvelle branch et de se positionner dessus
+git branch : creer une branch 
+Recuperer les données : 
+1, git fetch origin/branch 
+2, git merge FETCH_HEAD 
+3, git pull<alias> <branche> 
+
