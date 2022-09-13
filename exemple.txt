@@ -2,5 +2,13 @@ hello helllo 1 è projet
 ceci gfkbfjh
 
 ceci est le 5e mess.
+<<<<<<< HEAD
 ceci le 6e mess
 L’une des commandes git les plus utilisées est git config. On l’utilise pour configurer les préférences de l’utilisateur : son mail, l’algorithme utilisé pour diff, le nom d’utilisateur et le format de fichier etc. 
+=======
+ ceci le 6e mess
+
+ceci 7e mess 
+
+Un texte est une série orale ou écrite de mots perçus comme constituant un ensemble cohérent, porteur de sens et utilisant les structures propres à une langue.
+>>>>>>> main
